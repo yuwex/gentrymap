@@ -20,14 +20,18 @@ She defines Gentrification as a system of change within 4 structures:
 
 Furthermore, she states that Gentrification is not a definite occurrence in communities:
 
-    These systems are usually triggered by some sort of large-scale investment in historically disadvantaged communities that suddenly make a place more attractive (transit investments, green infrastructure, stadiums, etc).
+```
+These systems are usually triggered by some sort of large-scale investment in historically disadvantaged communities that suddenly make a place more attractive (transit investments, green infrastructure, stadiums, etc).
+```
 
 ## Is Gentrification Good?
 --------------------------
 
 Gentrification is inherently a force that takes from one group and gives to another group. Some people see this change as positive, citing neighborhood value increases and newer businesses and investors. However, Dr. Gonzáles presents another side to these seemingly positive events:
 
-    [Gentrification] is a form of neighborhood change we call upscaling. It's bad because it also generates displacement of long-time and usually vulnerable residents. In Los Angeles, advocates for housing rights have long urged people to use the terms gentrification and displacement together, otherwise, we can easily assume gentrification is good (who wouldn't want their neighborhood to "upscale"?).
+```
+[Gentrification] is a form of neighborhood change we call upscaling. It's bad because it also generates displacement of long-time and usually vulnerable residents. In Los Angeles, advocates for housing rights have long urged people to use the terms gentrification and displacement together, otherwise, we can easily assume gentrification is good (who wouldn't want their neighborhood to "upscale"?).
+```
 
 ## How does this Project Work?
 ------------------------
